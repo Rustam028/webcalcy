@@ -17,7 +17,7 @@ section {
 }
 
 .calculator {
-    width: auto;
+/*     width: auto; */
     box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.303);
     padding: 30px;
     border-radius: 15px;
